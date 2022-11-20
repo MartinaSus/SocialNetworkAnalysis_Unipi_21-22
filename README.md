@@ -11,7 +11,7 @@ among people, which eventually led to feelings of hate and
 racism. The Russian invasion of Ukraine let European white
 refugees flee, which differed from the stereotype of refugee in
 the Italian collective imagination. The goal of this study conducted
-with Network Science tools1 is to determine whether
+with Network Science tools is to determine whether
 the Russo-Ukrainian conflict of 2022 had an impact on the
 Italians opinion about refugees, i.e. it was investigated if
 the proximity of the conflict and the ethnic similarity of the
