@@ -3,6 +3,8 @@
 This is the repository for the 2021 final project of the Social Network Analysis course at University of Pisa.
 
 Abstract
+
+
 Immigration has been at center of the Italian public debate
 for the last 10 years, letting far-right parties foment fear
 among people, which eventually led to feelings of hate and
